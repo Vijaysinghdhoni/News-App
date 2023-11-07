@@ -1,0 +1,1 @@
+Basic news app using newsapi.org , devloped in kotlin , demonstrating the use of dagger hilt for dependency injection, Retrofit for networking , coroutines for asynchronous programing and glide for image loading ,RecylerView with DiffUtil,Navigation with jetpack Navigation Components and Room for storing fav News. This app uses MVVM Clean architecture
